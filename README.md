@@ -350,7 +350,7 @@ Example:
 
 [ SYSTEM INFORMATION ]
 
-Computer Name : CIPL-PC-36-55
+Computer Name : hosname
 OS            : Microsoft Windows
 Architecture  : 64-bit
 Manufacturer  : System Manufacturer
